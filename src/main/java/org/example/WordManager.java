@@ -27,17 +27,33 @@ public class WordManager {
     }
 
     public void start() {
+        wordCRUD.loadFile();
         while(true) {
             int choice = selectMenu();
             if(choice == 0) {
-                System.out.println("Program will be ended.");
+                //System.out.println("Program will be ended.");
                 break;
             }
             if(choice == 1) {
                 wordCRUD.listAll();
             }
+            else if(choice == 2) {
+                wordCRUD.searchLevel();
+            }
+            else if(choice == 3) {
+                wordCRUD.searchWord();
+            }
             else if (choice == 4) {
                 wordCRUD.addWord();
+            }
+            else if(choice == 5) {
+                wordCRUD.updateItem();
+            }
+            else if(choice == 6) {
+                wordCRUD.deleteItem();
+            }
+            else if(choice == 7) {
+                wordCRUD.saveFile();
             }
         }
     }
