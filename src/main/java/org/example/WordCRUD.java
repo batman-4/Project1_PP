@@ -49,7 +49,6 @@ public class WordCRUD implements ICRUD{
 
     @Override
     public int update(Object obj) {
-
         return 0;
     }
 
@@ -77,7 +76,6 @@ public class WordCRUD implements ICRUD{
 
     @Override
     public void selectOne(int id) {
-
     }
 
     public void listAll() {

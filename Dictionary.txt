@@ -1,4 +1,0 @@
-2|give|bagi
-1|horse|mal
-2|mogda|wrong
-1|rice|ssal
