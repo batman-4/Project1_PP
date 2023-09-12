@@ -1,0 +1,3 @@
+2|hate|dislike
+1|dream|sleep
+3|boy|male
