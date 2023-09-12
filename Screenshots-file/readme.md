@@ -10,14 +10,18 @@
 
 
 2번 메뉴 실행화면:
-<img src="https://github.com/batman-4/Project1_PP/blob/main/Screenshots-file/Screenshot%20(211).png?raw=true">
+<img src="https://github.com/batman-4/Project1_PP/blob/main/Screenshots-file/Screenshot%20(216).png?raw=true">
 
 
 3번 메뉴 실행화면:
-<img src="https://github.com/batman-4/Project1_PP/blob/main/Screenshots-file/Screenshot%20(213).png?raw=true">
+<img src="https://github.com/batman-4/Project1_PP/blob/main/Screenshots-file/Screenshot%20(217).png?raw=true">
+
+
+5번 메뉴 실행화면:
+<img src="https://github.com/batman-4/Project1_PP/blob/main/Screenshots-file/Screenshot%20(218).png?raw=true">
 
 
 6번 메뉴 실행화면:
-<img src="https://github.com/batman-4/Project1_PP/blob/main/Screenshots-file/Screenshot%20(214).png?raw=true">
+<img src="https://github.com/batman-4/Project1_PP/blob/main/Screenshots-file/Screenshot%20(219).png?raw=true">
 
 
